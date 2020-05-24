@@ -3,6 +3,7 @@
 二.服务器web：
 1.新建：index.php
 2.新建：db_config.php
+3.新建：esp_data.php
 三.数据库：
 1.新建一个数据库.
 2.将以下代码复制到SQL中：
