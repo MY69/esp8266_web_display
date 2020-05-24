@@ -11,3 +11,10 @@ CREATE TABLE SensorData (
     value3 VARCHAR(10),
     reading_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 )
+一.esp8266（arduino）：
+二.服务器web：
+1.新建：index.php
+2.新建：db_config.php
+三.数据库：
+1.新建一个数据库.
+2.将代码复制到SQL中：
