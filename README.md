@@ -16,3 +16,4 @@ CREATE TABLE SensorData (
     value3 VARCHAR(10),
     reading_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 )
+BUG:如果你的图标没显示，请把数据库中无效的值删除（null）。
