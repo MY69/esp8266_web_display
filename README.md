@@ -1,5 +1,6 @@
 # esp8266_web_display
-一.esp8266（arduino）：  
+一.esp8266：  
+1.arduino  
 二.服务器web：  
 1.新建：index.php  
 2.新建：db_config.php  
